@@ -1,16 +1,16 @@
-unitid,institution name,year,DRVADM2022.Percent admitted - total,DRVADM2022.Admissions yield - total,HD2022.Institution size category,HD2022.Institution size code,DRVEF2022.Percent of total enrollment that are American Indian or Alaska Native,DRVEF2022.Percent of total enrollment that are Asian,DRVEF2022.Percent of total enrollment that are Black or African American,DRVEF2022.Percent of total enrollment that are Hispanic/Latino,DRVEF2022.Percent of total enrollment that are Native Hawaiian or Other Pacific Islander,DRVEF2022.Percent of total enrollment that are White,DRVEF2022.Percent of total enrollment that are two or more races,DRVEF2022.Percent of total enrollment that are Race/ethnicity unknown,DRVEF2022.Percent of total enrollment that are U.S. Nonresident,DRVEF2022.Percent of total enrollment that are Asian/Native Hawaiian/Pacific Islander,"EF2022D.Full-time retention rate, 2022",EF2022D.Student-to-faculty ratio,"DRVGR2022.Graduation rate, total cohort",DRVGR2022.Pell Grant recipients - Overall graduation rate within 150 percent of normal time,SFA2122.Percent of full-time first-time undergraduates awarded Pell grants,SFA2122.Percent of full-time first-time undergraduates awarded federal student loans
+unitid,Institution,year,Percent_Admitted,Admissions_Yield,Institution_Size,HD2022.Institution size code,Percent_American_Indian_or_Alaska_Native,Percent_Asian,Percent_Black,Percent_Latino,Percent_Native_Hawaiian_or_Other_PI,Percent_White,Percent_Two_or_more_Races,Percent_Race_Ethnicity_Unknown,DRVEF2022.Percent of total enrollment that are U.S. Nonresident,DRVEF2022.Percent of total enrollment that are Asian_Native_Hawaiian_Pacific_Islander,Retention_rate_FT,EF2022D.Student-to-faculty ratio,Graduation_Rate_Total_Cohort,Pell_Graduation_Rate_150percent_normal_time,Percent_FT_Undergrad_Pell,Percent_FT_Undergrad_Fed_Loan
 110486,California State University-Bakersfield,2022,87,9,"5,000 - 9,999",B,0,7,4,67,0,14,2,4,1,7,73,19,50,46,67,22
 110495,California State University-Stanislaus,2022,97,18,"10,000 - 19,999",C,0,9,2,61,1,19,2,5,1,10,81,18,55,54,62,11
 110510,California State University-San Bernardino,2022,91,16,"10,000 - 19,999",C,0,6,5,68,0,11,2,3,3,6,80,23,54,53,63,18
 110538,California State University-Chico,2022,95,10,"10,000 - 19,999",C,0,6,3,37,0,44,5,4,2,6,80,20,64,58,39,37
 110547,California State University-Dominguez Hills,2022,89,12,"10,000 - 19,999",C,0,8,11,68,0,7,2,3,2,8,70,22,46,46,74,9
-110556,California State University-Fresno,2022,95,20,"20,000 and above",D,0,12,3,59,0,17,2,3,3,12,76,21,56,54,64,14
-110565,California State University-Fullerton,2022,67,16,"20,000 and above",D,0,22,2,50,0,16,4,2,3,22,86,24,69,66,52,22
+110556,California State University-Fresno,2022,95,20,"20,000_and_above",D,0,12,3,59,0,17,2,3,3,12,76,21,56,54,64,14
+110565,California State University-Fullerton,2022,67,16,"20,000_and_above",D,0,22,2,50,0,16,4,2,3,22,86,24,69,66,52,22
 110574,California State University-East Bay,2022,96,7,"10,000 - 19,999",C,0,22,9,36,1,16,5,4,7,23,75,22,46,43,51,25
-110583,California State University-Long Beach,2022,40,18,"20,000 and above",D,0,21,4,49,0,16,4,2,4,21,85,22,73,70,50,25
-110592,California State University-Los Angeles,2022,87,13,"20,000 and above",D,0,11,4,73,0,6,2,2,2,11,73,22,51,51,73,17
-110608,California State University-Northridge,2022,91,21,"20,000 and above",D,0,9,5,54,0,20,3,5,4,9,75,24,56,53,62,20
-110617,California State University-Sacramento,2022,93,17,"20,000 and above",D,0,20,6,38,1,24,6,4,2,21,80,24,54,52,54,22
+110583,California State University-Long Beach,2022,40,18,"20,000_and_above",D,0,21,4,49,0,16,4,2,4,21,85,22,73,70,50,25
+110592,California State University-Los Angeles,2022,87,13,"20,000_and_above",D,0,11,4,73,0,6,2,2,2,11,73,22,51,51,73,17
+110608,California State University-Northridge,2022,91,21,"20,000_and_above",D,0,9,5,54,0,20,3,5,4,9,75,24,56,53,62,20
+110617,California State University-Sacramento,2022,93,17,"20,000_and_above",D,0,20,6,38,1,24,6,4,2,21,80,24,54,52,54,22
 366711,California State University-San Marcos,2022,95,18,"10,000 - 19,999",C,0,10,3,50,0,26,6,3,2,10,72,23,57,55,45,28
 409698,California State University-Monterey Bay,2022,92,8,"5,000 - 9,999",A,0,7,3,53,0,26,5,4,2,7,79,20,61,63,38,35
 441937,California State University-Channel Islands,2022,90,7,"5,000 - 9,999",A,0,7,2,59,0,24,4,3,2,7,75,17,57,55,47,24
